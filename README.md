@@ -2,4 +2,4 @@
 ## Welcome to my site
 
 
-My stuff is located at [https://github.com/TheBicPen](https://github.com/TheBicPen).
+You're probably looking for [https://github.com/TheBicPen](https://github.com/TheBicPen).
